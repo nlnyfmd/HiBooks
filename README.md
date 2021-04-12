@@ -3,15 +3,13 @@ Final Project in BitCamp, modeling Book shop website.
 
 ## 개요
 
- - [개발 일지(벨로그)] https://velog.io/@betweenhj702?tag=Final-PJ
- - [시연 영상] https://www.youtube.com/watch?v=RzMbMxom7Eo
- 
-[![시연 영상](https://img.youtube.com/vi/RzMbMxom7Eo/0.jpg)](https://www.youtube.com/watch?v=RzMbMxom7Eo)
+[![시연 영상]  http://bit.ly/nlnyfmd2
  
  - 기간 - 50일
- - 인터넷 서점 - 책 구매 서비스 제공 웹 개발 프로젝트
- - 프젝 구성원 - 신동오, 권연주, 박진호
- - 주제 선정 이유 - 많은 양의 데이터베이스를 기반으로 추천 서비스를 구현하기에 책이라는 주제가 적합하다고 생각하였음.
+ - 책 구매 서비스 제공 웹 개발 프로젝트
+ - 구성원 : 신동오, 권연주, 박진호
+ - 주제 선정 이유
+   : 넷플릭스, 유튜브 등 영상 플랫폼의 점유율은 올라가지만 한국인 평균 독서량이 줄어드는 사실에 기반하여 "책"이라는 주제에 주목하였으며 많은 양의 데이터베이스를 활용할 수 있다고 판단하였음.
  - 활용 기술 
    * Java 1.8, Spring Framework 5.0.7, Mybatis, Hikari CP, Spring Security, JSOUP, KOMORAN ....
    * Tomcat9, Oracle, STS3, VS code, Git Desktop, Git gui
