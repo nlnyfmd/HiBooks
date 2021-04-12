@@ -3,7 +3,7 @@ Final Project in BitCamp, modeling Book shop website.
 
 ## 개요
 
-[![시연 영상]  http://bit.ly/nlnyfmd2
+[시연 영상]  http://bit.ly/nlnyfmd2
  
  - 기간 - 50일
  - 책 구매 서비스 제공 웹 개발 프로젝트
